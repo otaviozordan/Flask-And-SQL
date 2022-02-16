@@ -12,13 +12,13 @@
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
 * Você necessita das bibliotas python `<flask/flask_sqlalchemy/mysql-connector-python/mysqlclient>`
-* Banco de dados SQL .
-* XAMPP. 
+* Tabela SQL -> no meu caso usei a tabela de nome "teste" de url localhost/teste. Para alterar a URL de acordo com sua tabela vá a linha 8 do código [Aplication.py](https://github.com/otaviozordan/Flask-And-SQL/blob/main/aplication.py)
+* XAMPP rodando SQL (Meu caso porta 3306). 
 
 
 ## 🚀 Instalando
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
+Para instalar a aplicação, siga estas etapas:
 
 Terminal :
 ```
