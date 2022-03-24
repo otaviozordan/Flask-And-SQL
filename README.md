@@ -2,8 +2,8 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/otaviozordan/crud-flask?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/otaviozordan/crud-flask?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/otaviozordan/Flask-And-SQL?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/otaviozordan/Flask-And-SQL?style=for-the-badge)
 
 > Projeto simples para treinar a criação de Frameworks e APIs com banco de dados.
 
